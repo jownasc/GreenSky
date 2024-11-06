@@ -17,4 +17,4 @@ Engenheiro de Software com foco em desenvolvimento back-end e front-end, usando 
 
 [LinkedIn 💼](https://www.linkedin.com/in/jonathannascimentodelima/)  
 [GitHub 🌐](https://github.com/jownasc/)  
-✉️ [Email 📬](mailto:jonathan_nasc@hotmail.com)
+[Email 📬](mailto:jonathan_nasc@hotmail.com)
