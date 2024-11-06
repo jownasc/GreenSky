@@ -1,0 +1,10 @@
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.frmMain.resources
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.Properties.Resources.resources
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.csproj.GenerateResource.cache
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\bin\Debug\BlueLime.exe.config
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\bin\Debug\BlueLime.exe
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\bin\Debug\BlueLime.pdb
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.exe
+C:\Users\jonat\Documents\Estudos\UdemyProjetos\BlueLime\BlueLime\BlueLime\obj\Debug\BlueLime.pdb
